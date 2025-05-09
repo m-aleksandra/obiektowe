@@ -11,7 +11,7 @@ import (
 	"gorm.io/gorm"
 )
 
-var db *gorm.DB // global db
+var db *gorm.DB 
 
 type OpenWeatherResponse struct {
 	Main struct {
