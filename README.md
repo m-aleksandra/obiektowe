@@ -22,3 +22,14 @@
 
 :x: 5.0 wymaganie 5 
 
+**Zadanie 4** 
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/391cf6635009af2ed4a11607ff15fdadf8df8a1d)
+
+:white_check_mark: 3.5 wymaganie 2 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/391cf6635009af2ed4a11607ff15fdadf8df8a1d)
+
+:white_check_mark: 4.0 wymaganie 3 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/391cf6635009af2ed4a11607ff15fdadf8df8a1d)
+
+:white_check_mark: 4.5 wymaganie 4 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/391cf6635009af2ed4a11607ff15fdadf8df8a1d)
+
+:x: 5.0 wymaganie 5 
