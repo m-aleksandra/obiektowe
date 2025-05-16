@@ -49,12 +49,12 @@
 
 **Zadanie 5** 
 
-:white_check_mark: 3.0 wymaganie 1 [Link](https://github.com/m-aleksandra/obiektowe/commit/3b84a6b2935e9383373891b44ab8c862e8bbafd9)
+:white_check_mark: 3.0 wymaganie 1 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/3b84a6b2935e9383373891b44ab8c862e8bbafd9)
 
-:white_check_mark: 3.5 wymaganie 2 [Link](https://github.com/m-aleksandra/obiektowe/commit/3b84a6b2935e9383373891b44ab8c862e8bbafd9)
+:white_check_mark: 3.5 wymaganie 2 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/3b84a6b2935e9383373891b44ab8c862e8bbafd9)
 
-:white_check_mark: 4.0 wymaganie 3 [Link](https://github.com/m-aleksandra/obiektowe/commit/3b84a6b2935e9383373891b44ab8c862e8bbafd9)
+:white_check_mark: 4.0 wymaganie 3 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/c15d7e5cc87179e96f8b13d94f0ce86a12487679)
 
-:white_check_mark: 4.5 wymaganie 4 [Link](https://github.com/m-aleksandra/obiektowe/commit/3b84a6b2935e9383373891b44ab8c862e8bbafd9)
+:white_check_mark: 4.5 wymaganie 4 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/c15d7e5cc87179e96f8b13d94f0ce86a12487679)
 
-:white_check_mark: 5.0 wymaganie 5 [Link](https://github.com/m-aleksandra/obiektowe/commit/3b84a6b2935e9383373891b44ab8c862e8bbafd9)
+:white_check_mark: 5.0 wymaganie 5 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/c15d7e5cc87179e96f8b13d94f0ce86a12487679)
