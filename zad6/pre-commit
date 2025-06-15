@@ -1,0 +1,33 @@
+#!/bin/bash
+
+REPO_ROOT=$(git rev-parse --show-toplevel)
+cd "$REPO_ROOT" || exit 1
+
+FILES_TO_COMMIT=$(git diff --cached --name-only --diff-filter=ACMR | awk '/^zad7\/.*\.go$/')
+
+if [[ -z "$FILES_TO_COMMIT" ]]; then
+  echo "No files staged for commit"
+  exit 0
+fi
+echo "${FILES_TO_COMMIT[@]}"
+echo "Checking formatting..."
+
+FAILED=0
+while IFS= read -r file; do
+  if [[ ! -f "$file" ]]; then
+    echo "Skipping deleted file: $file"
+    continue
+  fi
+  if [[ -n "$(gofmt -l "$file")" ]]; then
+    echo "File not gofmt formatted: $file"
+    FAILED=1
+  fi
+done <<< "$FILES_TO_COMMIT"
+
+if [[ $FAILED -ne 0 ]]; then
+  echo "Run: gofmt -w zad7/"
+  exit 1
+fi
+
+echo "All files are properly formatted."
+exit 0
