@@ -71,3 +71,15 @@
 
 :x: 5.0 wymaganie 5 
 
+**Zadanie 7** 
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/2f80800302dc1968ccdd0941d9e97164bab71c72)
+
+:white_check_mark: 3.5 wymaganie 2 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/2f80800302dc1968ccdd0941d9e97164bab71c72)
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5 
+
