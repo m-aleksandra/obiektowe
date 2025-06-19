@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+    <script>
+        async function sayHello() {
+            const name = document.getElementById("name").value;
+            const response = await fetch("/hello", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ name })
+            });
+            const data = await response.json();
+            document.getElementById("output").innerText = data.message;
+        }
+    </script>
+</head>
+<body>
+    <h1>Welcome!</h1>
+    <input id="name" type="text" placeholder="Enter your name">
+    <button onclick="sayHello()">Say Hello</button>
+    <p id="output"></p>
+</body>
+</html>
