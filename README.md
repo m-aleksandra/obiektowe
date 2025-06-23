@@ -71,6 +71,15 @@
 
 :x: 5.0 wymaganie 5 
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=m-aleksandra_ebiznes)](https://sonarcloud.io/summary/new_code?id=m-aleksandra_ebiznes)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=m-aleksandra_ebiznes&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=m-aleksandra_ebiznes)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=m-aleksandra_ebiznes&metric=bugs)](https://sonarcloud.io/summary/new_code?id=m-aleksandra_ebiznes)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=m-aleksandra_ebiznes&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=m-aleksandra_ebiznes)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=m-aleksandra_ebiznes&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=m-aleksandra_ebiznes)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=m-aleksandra_ebiznes&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=m-aleksandra_ebiznes)
+
+
 **Zadanie 7** 
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/2f80800302dc1968ccdd0941d9e97164bab71c72)
