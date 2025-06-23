@@ -104,3 +104,15 @@
 
 :x: 5.0 wymaganie 5 
 
+**Zadanie 9** 
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita](https://github.com/m-aleksandra/obiektowe/commit/d693801cef946d8b03e49151f79bc69781c578ae)
+
+:x: 3.5 wymaganie 2
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5 
+
